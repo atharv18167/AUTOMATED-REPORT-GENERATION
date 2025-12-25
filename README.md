@@ -34,3 +34,4 @@ This Automatic Report Generator project fulfills all the task requirements by de
 
 
 #OUTPUT
+<img width="741" height="823" alt="Image" src="https://github.com/user-attachments/assets/f1ade1f8-47e8-4d76-921b-55e867dd203b" />
